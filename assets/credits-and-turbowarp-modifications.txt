@@ -1,4 +1,7 @@
 --Add under favicon
 <link rel="apple-touch-icon" sizes="180x180" href="https://yourdomain.com/apple-touch-icon-180x180.png">
 
+--Add under title
+ <link rel="manifest" href="/app.webmanifest">
+
 Created by Jax (NotGrayFlamingo) on August 8, 2024.

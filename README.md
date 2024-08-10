@@ -1,2 +1,2 @@
 # PushBoard
-A  highly customizable web app made with js and html meant for mobile devices to launch websites quickly and elegantly in full screen.
+A highly customizable web app, built with JavaScript and HTML, specifically designed for mobile devices to quickly and elegantly launch websites in full-screen mode.

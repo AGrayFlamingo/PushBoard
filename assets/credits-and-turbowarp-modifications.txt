@@ -1,7 +1,0 @@
---Add under favicon
-  <link rel="apple-touch-icon" sizes="180x180" href="https://agrayflamingo.github.io/PushBoard/icon.png">
-
---Add under title
-<link rel="manifest" href="https://agrayflamingo.github.io/PushBoard/pushboard.webmanifest">
-
-Created by Jax (NotGrayFlamingo) on August 8, 2024.

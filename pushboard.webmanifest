@@ -1,3 +1,10 @@
 {
-   "name": "PushBoard"
+"theme_color": "#808080",
+"background_color": "#808080",
+"orientation": "any",
+"display": "standalone",
+"dir": "auto",
+"lang": "en-US",
+"name": "PushBoard",
+"description": "A highly customizable web app, built with JavaScript and HTML, specifically designed for mobile devices to quickly and elegantly launch websites in full-screen mode."
 }
